@@ -1,1 +1,1 @@
-# Data-Visualization-Challenge-
+  My tasks are to prepare the data, generate summary statistics, create bar charts and pie charts, calculate quartiles, identify outliers, and create a box plot. Additionally, I will create a line plot and a scatter plot, and calculate correlation and regression.
